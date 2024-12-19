@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Hunter. I am currently working as a banker and trying to transition into a data based role. I enjoy working with data and numbers to find insights from our data filled world.
 
 <!--
 **HunterG003/HunterG003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
